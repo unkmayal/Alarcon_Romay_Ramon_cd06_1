@@ -123,7 +123,7 @@ En la siguiente tabla se muestran las versiones publicadas de la aplicación:
 
 ## Créditos
 
-Desarrollado por [Ramón Alarcón](https://github.com/tu_usuario_github).
+Desarrollado por [Ramón Alarcón](https://github.com/unkmayal/Alarcon_Romay_Ramon_cd06_1).
 
 ## Licencia
 
